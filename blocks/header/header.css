@@ -3,7 +3,7 @@
   padding: 28px 48px 0 48px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
 }
 
 @media screen and (max-width: 767px) {

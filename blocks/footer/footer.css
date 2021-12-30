@@ -16,7 +16,6 @@
   padding-top: 64px;
   padding-left: 16px;
   padding-right: 16px;
-  padding-bottom: 24px;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
@@ -27,7 +26,6 @@
   padding-top: 88px;
   padding-left: 24px;
   padding-right: 24px;
-  padding-bottom: 24px;
 }
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px) {}

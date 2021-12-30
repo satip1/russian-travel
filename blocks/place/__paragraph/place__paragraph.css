@@ -1,9 +1,14 @@
 .place__paragraph {
   grid-area: paragraph;
   margin: 0;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 29px;
   padding-bottom: 26px;
+}
+
+
+.place__paragraph:last-child {
+  padding-bottom: 0;
 }
 
 @media screen and (max-width: 767px) {
