@@ -5,7 +5,7 @@
 @import url('../vendor/fonts.css');
 
 
-@import url('../blocks/body_color/body_color.css');
+@import url('../blocks/body-color/body-color.css');
 
 /* основной блок page */
 @import url('../blocks/page/page.css');
