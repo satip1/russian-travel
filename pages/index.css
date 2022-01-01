@@ -44,6 +44,7 @@
 /* блок карточек place в блоке places */
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__title/place__title.css');
+@import url('../blocks/place/__title/_width-100/place__title_width-100.css');
 @import url('../blocks/place/__website/place__website.css');
 @import url('../blocks/place/__url-heading/place__url-heading.css');
 @import url('../blocks/place/__link/place__link.css');
